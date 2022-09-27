@@ -10,5 +10,5 @@ Task 3.ipynb is main file for regression. Train_save_preds.py doing same (train 
 
 ## Training Results
 | Architecture | RMSE | Epochs | Steps_per_epoch | Loss function | Optimizer | Learning scheduler |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Unet&EfficientNetB0 | 0.0799 | 40 | 250 | FocalLoss | Adam (lr=1e-3) | ReduceLROnPlateau(factor=0.5, patience=3) |
