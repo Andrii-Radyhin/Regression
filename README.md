@@ -12,3 +12,5 @@ Task 3.ipynb is main file for regression. Train_save_preds.py doing same (train 
 | Architecture | RMSE | Epochs | Steps_per_epoch | Loss function | Optimizer | Learning scheduler |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Custom | 2.3219 | 40 | 250 | mean_absolute_error | Adam (lr=1e-3) | ReduceLROnPlateau(factor=0.5, patience=3) |
+
+Results can be also improved by increasing number of epochs
