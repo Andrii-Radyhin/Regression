@@ -13,4 +13,7 @@ Task 3.ipynb is main file for regression. train_save_preds.py doing same (train 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Custom | 2.3219 | 40 | 1124 | mean_absolute_error | Adam (lr=1e-3) | ReduceLROnPlateau(factor=0.5, patience=3) | 64 |
 
-Results can be also improved by increasing number of epochs
+Results can be also improved by increasing number of epochs.
+Loss function:
+![alt text](images/loss.PNG)
+
