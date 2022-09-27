@@ -16,5 +16,7 @@ Task 3.ipynb is main file for regression. train_save_preds.py doing same (train 
 Results can be also improved by increasing number of epochs.
 
 Loss function:
+
+
 ![alt text](images/loss.PNG)
 
