@@ -6,7 +6,7 @@ Abstract: this repo includes a pipeline using tf.keras for the anonymised data r
 ## Files Description 
 Task 1-2.ipynb contains colab notebook as solution for fast sum() and islands count.
 
-Task 3.ipynb is main file for regression. train_save_preds.py doing same (train model and saves predictions).
+Regression.ipynb is main file for regression. train_save_preds.py doing same (train model and saves predictions).
 
 ## Training Results
 | Architecture | RMSE | Epochs | Steps_per_epoch | Loss function | Optimizer | Learning scheduler | batch_size |
